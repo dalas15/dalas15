@@ -74,7 +74,6 @@ i also love :
 
 
 
-what are you still doing here?
 
 
 
@@ -148,7 +147,6 @@ what are you still doing here?
 
 
 
-ok.
 
 
 
@@ -266,4 +264,6 @@ ok.
 
 
 
-cheese pizza
+
+
+
